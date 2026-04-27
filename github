@@ -1,0 +1,40 @@
+
+https://github.com/gopikapushparajan/ML-LAB
+
+
+
+
+https://github.com/chaithanyasudhan/ML
+
+
+
+
+https://github.com/GhanshyamSharma122/ml-lab-prep
+
+
+
+
+TP (True Positive): correctly predicted positive
+TN (True Negative): correctly predicted negative
+FP (False Positive): incorrectly predicted positive
+FN (False Negative): incorrectly predicted negative
+🔹 Accuracy
+Measures overall correctness.
+
+Accuracy=TP+TN+FP+FNTP+TN
+🔹 Precision
+Out of predicted positives, how many were actually correct.
+
+Precision=TP+FPTP
+🔹 Recall (Sensitivity)
+Out of actual positives, how many were correctly identified.
+
+Recall=TP+FNTP
+🔹 F1 Score
+Harmonic mean of Precision and Recall.
+
+F1 Score=2×Precision+RecallPrecision×Recall
+🔹 Alternative F1 Formula (direct)
+You can also compute it directly from TP, FP, FN:
+
+F1 Score=2TP+FP+FN2TP
